@@ -9,8 +9,9 @@
 
   <h3>User Interface</h3>
   <p>
-    This application allows users to create and display memes usinig images they take or from their library.
+    This application allows users to create and display memes usinig images they take using their built in camera or from their photo library.
     Each image is ordered in either a table view or a collection view.
+    Users may share their Memes using social media.
   </p>
   <h3>License</h3>
   <p>
